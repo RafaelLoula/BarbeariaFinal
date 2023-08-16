@@ -1,0 +1,73 @@
+.login {
+	-fx-background-color: linear-gradient(to right, rgb(222, 97, 97),
+		rgb(38, 87, 235));
+}
+
+.login2 {
+	-fx-background-color: linear-gradient(to right, rgb(0, 4, 40),
+		rgb(0, 78, 146));
+}
+
+.login-titulo {
+	-fx-font-size: 20px;
+	-fx-text-fill: #FFF;
+}
+
+.login-form-label {
+	-fx-font-size: 16px;
+	-fx-text-fill:#FFF
+}
+
+.botaoConfirmar {
+	-fx-text-fill: rgb(19, 255, 0);
+	-fx-background-color: #8888;
+	
+}
+.botaoLimpar {
+	-fx-text-fill: #FFFF00;
+	-fx-background-color: #8888;
+	
+}
+
+.campoTexto{
+	-fx-background-color: #8888;
+	-fx-text-fill: rgb(255, 255, 255);
+	-fx-font-color: #FFF;
+}
+
+.painelAgendamento{
+	-fx-background-color: #8888;
+	-fx-text-fill: rgb(0,40,0);
+	-fx-font-color: #FFF;
+	-fx-border-width:2;
+	-fx-column-rule-color: transparent;
+}
+.painelAgendamento2{
+	-fx-background-color: transparent;
+	-fx-text-fill: rgb(0,40,0);
+	-fx-font-color: #FFF;
+	-fx-border-width:2;
+}
+
+.campoDate{
+
+-fx-border-radius: 10, 10, 10, 10;
+
+}
+
+.painelCadastraCliente {
+	-fx-font-color: #FFF;
+	-fx-border-radius: 10, 10, 10, 10;
+	-fx-background-radius: 10 10 10 10;
+	-fx-border-width:2;
+	-fx-border-color: linear-gradient(to right, rgb(0, 4, 40),
+		rgb(0, 78, 146));
+}
+.painelCadastraClienteTeste {
+	-fx-border-radius: 10, 10, 10, 10;
+	-fx-background-radius: 10 10 10 10;
+	-fx-border-width:1;
+	-fx-border-color: #8888;
+	-fx-background-color: linear-gradient(to right, rgb(0, 4, 40),
+		rgb(0, 78, 146));	
+}
